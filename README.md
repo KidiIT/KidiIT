@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KidiIT 
 - 👀 I’m interested in Javascript, python and cyber security.However, I'm always open to any advice and ideas that will help me get my head Straight on the tech world positively.
-- 🌱 I’m currently learning python and cyber security
-- 💞️ I’m looking forward to collaborate on any profitable and tremendous project that will help me to learn more and showcase my skills
-- 📫 You can always contact me @: ifejikachichetam88@gmail.com,looking forward to engage and communicate with y'all soonest
+- 🌱 I’m currently learning python and cyber security.
+- 💞️ I’m looking forward to collaborate on any profitable and tremendous project that will help me to improve and showcase my skills.
+- 📫 You can always contact me  @ifejikachichetam88@gmail.com. looking forward to engage and communicate with y'all soonest.
 
 <!---
 KidiIT/KidiIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
