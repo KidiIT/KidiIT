@@ -1,31 +1,24 @@
-# These are supported funding model platforms
+jobs:
+  job_id:
+    permissions:
+      contents: 'read'
+      id-token: 'write'
 
-# `dependabot.yml` file with updates
-# disabled for Docker and limited for npm
+    steps:
 
-version: 2
-updates:
-  # Configuration for Dockerfile
-  - package-ecosystem: "docker"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-      # Disable all pull requests for Docker dependencies
-    open-pull-requests-limit: 0
+    # ...
 
-  # Configuration for npm
-  - package-ecosystem: "npm"
-    directory: "/"
-    schedule:
-      interval: "weekly"
-    ignore:
-      # Ignore updates to packages that start with 'aws'
-      # Wildcards match zero or more arbitrary characters
-      - dependency-name: "aws*"
-      # Ignore some updates to the 'express' package
-      - dependency-name: "express"
-        # Ignore only new versions for 4.x and 5.x
-        versions: ["4.x", "5.x"]
-      # For all packages, ignore all patch updates
-      - dependency-name: "*"
-        update-types: ["version-update:semver-patch"]
+    - uses: 'google-github-actions/auth@v2'
+      with:
+        workload_identity_provider: 'projects/123456789/locations/global/workloadIdentityPools/my-pool/providers/my-provider'
+        service_account: 'my-service-account@my-project.iam.gserviceaccount.com'
+
+    - uses: 'google-github-actions/deploy-cloudrun@v2'
+      with:
+        image: 'gcr.io/cloudrun/hello'
+        service: 'hello-cloud-run'
+github: [KIDI’S TECH.com,kidiit]
+patreon: KIDI'S-TECH@patreon.com
+community_bridge: https://openprofile.dev/profile/kiditech
+custom: [https://github.com/KIDI-S-TECH, https://github.com/KidiIT]
+        
