@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Google Cybersecurity Professional Certificate on Coursera.
 - 💞️ I’m looking forward to collaborating on any profitable and tremendous project that will help me to improve and showcase my skills.
 - 📫 You can always contact me @KidiIT I'm looking forward to engage and communicate with y'all soonest.
+- 🥇 I've acquired an OpenSSF best practice and DOI badges repectively for my works to display my accomplishments and contributions so far in the Open Source community❤️
 
 <!---
 KidiIT/KidiIT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
