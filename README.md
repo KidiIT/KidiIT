@@ -1,7 +1,6 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 [![committers.top badge](https://user-badge.committers.top/nigeria/KidiIT.svg)](https://user-badge.committers.top/nigeria/KidiIT)
-<style>.libutton { display: flex; flex-direction: column; justify-content: center; padding: 7px; text-align: center; outline: none; text-decoration: none !important; color: #ffffff !important; width: 200px; height: 32px; border-radius: 16px; background-color: #0A66C2; font-family: "SF Pro Text", Helvetica, sans-serif; } </style>
 <a class="libutton" href="http://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ifejika-chichetam-4347a52a6" target="_black">Follow link</a>
 - 👋 Hi, I’m @KidiIT
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any advice and ideas that will help me get my head Straight on the tech world positively.
