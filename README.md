@@ -1,6 +1,5 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
-[![committers.top badge](https://user-badge.committers.top/nigeria/KidiIT.svg)](https://user-badge.committers.top/nigeria/KidiIT)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
 - 👋 Hi, I’m @KidiIT
