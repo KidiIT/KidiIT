@@ -2,6 +2,8 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4007780" style='border:none;'></iframe>
+
 - 👋 Hi, I’m @KidiIT
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any advice and ideas that will help me get my head Straight on the tech world positively.
 - 🌱 I’m a cybersecurity analyst/open source developer 
