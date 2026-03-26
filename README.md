@@ -3,8 +3,6 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 [![Check out KidiIT's profile on stardev.io](https://stardev.io/developers/KidiIT/badge/languages/global.svg)](https://stardev.io/developers/KidiIT)
 
-[![Check out KidiIT's profile on stardev.io](https://stardev.io/developers/KidiIT/badge/languages/country.svg)](https://stardev.io/developers/KidiIT)
-
 - 👋 Hi, I’m Ifejika Chichetam
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any advice and ideas that will help me get my head Straight on the tech world positively.
 - 🌱 I’m a cybersecurity analyst/open source developer 
