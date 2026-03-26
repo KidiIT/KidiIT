@@ -1,7 +1,7 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
-(https://stardev.io/developers/KidiIT/badge/languages/global.svg)](https://stardev.io/developers/KidiIT)
+[![Check out KidiIT's profile on stardev.io](https://stardev.io/developers/KidiIT/badge/languages/global.svg)](https://stardev.io/developers/KidiIT)
 
 
 - 👋 Hi, I’m Ifejika Chichetam
