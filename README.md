@@ -6,6 +6,9 @@
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![SOC Analyst](https://img.shields.io/badge/Role-SOC%20Analyst-green)
+![Founder](https://img.shields.io/badge/Founder-KIDI'S%20TECH-orange)
 
 - 👋 Hi, I’m Ifejika Chichetam
 - 👀 I’m interested in Javascript, Python and Cybersecurity. however, I'm always open to any advice and ideas that will help me get my head Straight on the tech world positively.
