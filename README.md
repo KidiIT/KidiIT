@@ -1,6 +1,7 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/8239/badge)](https://www.bestpractices.dev/projects/8239)
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10829824.svg)](https://doi.org/10.5281/zenodo.10829824)
+[![DOI](https://zenodo.org/badge/861375325.svg)](https://doi.org/10.5281/zenodo.19929266)
 
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/9693/badge)](https://www.bestpractices.dev/projects/9693)
 
