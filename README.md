@@ -6,7 +6,7 @@
 
 ![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![SOC Analyst](https://img.shields.io/badge/Role-SOC%20Analyst-green)
-![Founder](https://img.shields.io/badge/Founder-KIDI'S%20TECH%20Solution-orange)
+![Founder](https://img.shields.io/badge/Founder-Case%20Nest%20-orange)
 
 # 👋 Hi, I'm Ifejika Chichetam
 
