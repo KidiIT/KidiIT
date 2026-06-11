@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm Ifejika Chichetam
 
-## Founder @ KIDI’S TECH Solution ⚡
+## Founder at CaseNest
 
 Cybersecurity analyst, open source developer, and builder focused on hands-on cybersecurity training, SOC/SecOps simulations, and real-world security investigations.
 
