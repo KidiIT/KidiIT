@@ -15,7 +15,7 @@
 Cybersecurity analyst, open source developer, and builder focused on hands-on cybersecurity training, SOC/SecOps simulations, and real-world security investigations.
 
 ### 🛠️ Tech & Focus
-Python • JavaScript • Splunk • Wireshark • IOC Analysis Tools • Frontend Development • Backend Development • Cybersecurity • Open Source • Claude AI
+Python • JavaScript • Splunk • Wireshark • IOC Analysis Tools • Frontend Development • Backend Development • Cybersecurity • Open Source • Claude AI • Codex
 
 ### 🏆 Achievements
 🥇 OpenSSF Best Practices Gold Badge  
